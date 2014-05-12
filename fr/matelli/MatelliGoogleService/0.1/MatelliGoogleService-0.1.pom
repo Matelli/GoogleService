@@ -114,7 +114,7 @@
                         <!-- remote branch name -->
                         <branch>refs/heads/mvn-repo</branch>
                         <!-- If you remove this then the old artifact will be removed and new one will replace. But with the merge tag you can just release by changing the version -->
-                        <merge>true</merge>
+                        <merge>false</merge>
                         <includes>
                             <include>**/*</include>
                         </includes>

@@ -117,6 +117,7 @@
                         <merge>false</merge>
                         <includes>
                             <include>**/*</include>
+                            <include>update-directory-index.sh</include>
                         </includes>
                         <repositoryName>GoogleService</repositoryName> <!-- github repo name -->
                         <repositoryOwner>matelli</repositoryOwner> <!-- github username -->

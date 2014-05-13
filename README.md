@@ -25,5 +25,9 @@ Afin d'integrer cette librairie, rajouter ces lignes dans votre pom.xml
 </dependencies>
 ```
 
+## Version
+
+* [0.1.1](https://github.com/Matelli/GoogleService/tree/mvn-repo/fr/matelli/MatelliGoogleService/0.1.1) (2014-05-12)
+
 ## Licence
 

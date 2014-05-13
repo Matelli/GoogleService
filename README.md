@@ -2,6 +2,8 @@
 
 http://www.mistra.fr/
 
+Sample : [https://github.com/Matelli/GoogleService-Sample](https://github.com/Matelli/GoogleService-Sample)
+
 ## Installation
 
 Afin d'integrer cette librairie, rajouter ces lignes dans votre pom.xml

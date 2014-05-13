@@ -25,9 +25,41 @@ Afin d'integrer cette librairie, rajouter ces lignes dans votre pom.xml
 </dependencies>
 ```
 
+## Feature
+
+* OAuth 2.0 de Google
+* Gestion du Refresh Token
+* Service Calendar avec le scope "CalendarScopes.CALENDAR"
+   * Création du service Google Calendar
+   * Création d'un calendrier
+   * Création d'un évenement
+   * Abonnement à un calendrier
+   * Retourne la liste des calendriers
+   * Retourne la liste des évenements d'un calendrier
+   * Retourne toutes les informations d'un calendrier
+   * Retourne toutes les informations d'un évenement
+   * Mise à jour d'un évenement
+   * Supprime un évenement d'un calendrier
+* Service Drive avec le scope "DriveScopes.DRIVE"
+   * Création du service Google Drive
+   * Création d'un dossier
+   * Recherche de fichier
+   * Retourne les métadonnées d'un fichier
+   * Récupère une liste de tous les fichiers
+   * Création d'un nouveau fichier
+   * Supprime un fichier
+   * Copie un fichier existant
+   * Renommer un fichier
+   * Deplace le fichier dans la corbeille
+   * Restaure un fichier de la corbeille
+
 ## Version
 
 * [0.1.1](https://github.com/Matelli/GoogleService/tree/mvn-repo/fr/matelli/MatelliGoogleService/0.1.1) (2014-05-12)
+   * Utilisation du service Calendar avec le scope "CalendarScopes.CALENDAR"
+   * Opération de base sur les service Google Drive et Calendar
+   * Ajout du support pour OAuth 2.0 de Google
+   * Gestion des Refresh Token
 
 ## Licence
 

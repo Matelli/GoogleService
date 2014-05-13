@@ -6,7 +6,7 @@ Sample : [https://github.com/Matelli/GoogleService-Sample](https://github.com/Ma
 
 ## Installation
 
-Afin d'integrer cette librairie, rajouter ces lignes dans votre pom.xml
+Afin d'intégrer cette librairie, rajouter ces lignes dans votre pom.xml
 
 ```
 <repositories>
@@ -52,7 +52,7 @@ Afin d'integrer cette librairie, rajouter ces lignes dans votre pom.xml
    * Supprime un fichier
    * Copie un fichier existant
    * Renommer un fichier
-   * Deplace le fichier dans la corbeille
+   * Déplace le fichier dans la corbeille
    * Restaure un fichier de la corbeille
 
 ## Version

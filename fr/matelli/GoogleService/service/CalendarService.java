@@ -21,7 +21,7 @@ import java.util.List;
  *
  * @author <a href="http://www.matelli.fr">Matelli</a>
  * @see fr.matelli.GoogleService.googleService.GoogleAuthHelper
- * @see <a href"https://developers.google.com/google-apps/calendar/v3/reference/>https://developers.google.com/google-apps/calendar/v3/reference/</a>
+ * @see <a href"https://developers.google.com/google-apps/calendar/v3/reference/">https://developers.google.com/google-apps/calendar/v3/reference/</a>
  */
 public class CalendarService extends GoogleAuthHelper {
 

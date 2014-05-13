@@ -21,7 +21,7 @@ import java.util.List;
  *
  * @author <a href="http://www.matelli.fr">Matelli</a>
  * @see fr.matelli.GoogleService.googleService.GoogleAuthHelper
- * @see <a href"https://developers.google.com/drive/v2/reference/>https://developers.google.com/drive/v2/reference/</a>
+ * @see <a href"https://developers.google.com/drive/v2/reference/">https://developers.google.com/drive/v2/reference/</a>
  */
 public class DriveService extends GoogleAuthHelper {
 
@@ -246,7 +246,7 @@ public class DriveService extends GoogleAuthHelper {
     }
 
     /**
-     * Renome un fichier
+     * Renommer un fichier
      *
      * Voir la documentation de google :
      * https://developers.google.com/drive/v2/reference/files/patch

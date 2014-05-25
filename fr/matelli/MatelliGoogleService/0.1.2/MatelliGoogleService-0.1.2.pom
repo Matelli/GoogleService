@@ -4,8 +4,7 @@
 	<groupId>fr.matelli</groupId>
 	<artifactId>MatelliGoogleService</artifactId>
 	<packaging>jar</packaging>
-	<version>0.1.1</version>
-	<url>http://maven.apache.org</url>
+	<version>0.1.2</version>
 
 	<properties>
 		<!-- github server corresponds to entry in ~/.m2/settings.xml -->
@@ -69,7 +68,7 @@
 		<sourceDirectory>fr/</sourceDirectory>
 		<pluginManagement>
 			<plugins>
-				<!-- <plugin>
+				<plugin>
 					<groupId>com.github.github</groupId>
 					<artifactId>site-maven-plugin</artifactId>
 					<version>0.9</version>
@@ -92,7 +91,7 @@
 							<phase>deploy</phase>
 						</execution>
 					</executions>
-				</plugin> -->
+				</plugin>
 			</plugins>
 		</pluginManagement>
 		<plugins>
